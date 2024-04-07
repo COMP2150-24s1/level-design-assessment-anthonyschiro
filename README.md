@@ -17,7 +17,9 @@ The main challenges of the level are in the rooms where the keys are situated. I
 
 ### 1.4. Exploration
 The game has 2 encounters (key rooms) and 1 optional encounter where the player is encouraged to explore using level design. 
+
 ![3rd key room](DocImages/3rdKeyRoom.jpg)
+
 This is the 3rd key room where players are encouraged to explore above them before they drop down to the next encounter and there is no way of coming back. This could potentially be bad for players that don't have much experience with games and get softlocked because they didn't explore before dropping down into an unkown area. Adding in another path to get to the key room or an elevator so that this doesnt happen would improve the level design. Players with experience should insinctively explore above them first leading them to discover the monster den and the key at the top of the encounter similarly to the 2nd key room where the players can look into the room and explore to find the required key at the end of the room.
 
 ## 2. Core Gameplay (~400 words)
@@ -27,27 +29,37 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+![Encounter1](DocImages/Encounter1.png)
 
-### 2.2. Checkpoints
-
-### 2.3. Chompers
-
-### 2.4. Health Pickups
-
-### 2.5. Keys
-
-### 2.6. Moving Platforms
+Three mechanics are introduced in the first encounter of the game, with very easy jumps to get past the spikes and so the player can easily learn about the passthrough polatforms, checkpoints and spikes without having to worry about monsters.
 
 ### 2.7. Passthrough Platforms
-
 ### 2.8. Spikes
+### 2.2. Checkpoints
 
-### 2.9. Spitters
+![Encounter2](DocImages/Encounter2.png)
 
-### 2.10. Weapon Pickup (Gun)
+In the second encounter of the game, moving platforms and acid are introduced with a checkpoint right before so the player doesn't have to repeat the first encounter if they die. It is still very easy with only one moderatetely difficult jump.
+
+### 2.6. Moving Platforms
+### 2.1. Acid
+
+![Encounter3](DocImages/Encounter3.png)
+
+Encounter 3 introduces the staff weapon and allows the player to jump into a pit with monsters to learn how it works. The player can easily jump out of the pit if they want so there are low stakes.
 
 ### 2.11. Weapon Pickup (Staff)
+### 2.3. Chompers
+
+![Encounter4](DocImages/Encounter4.png)
+
+In the fourth encounter, the last 4 mechanics are introduced with health pickups at the start of the ecounter incase the player lost health in the previous encounters. Being very similar to the last encounter makes this encounter easier and should be able to find the key easily.
+
+### 2.4. Health Pickups
+### 2.5. Keys
+### 2.9. Spitters
+### 2.10. Weapon Pickup (Gun)
+
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
