@@ -57,7 +57,7 @@ Encounter 3 introduces the staff weapon and allows the player to jump into a pit
 
 ![Encounter4](DocImages/Encounter4.png)
 
-In the fourth encounter, the last 4 mechanics are introduced with health pickups at the start of the ecounter incase the player lost health in the previous encounters. Being very similar to the last encounter makes this encounter easier and should be able to find the key easily.
+In the fourth encounter, the last 4 mechanics are introduced with health pickups at the start of the ecounter incase the player lost health in the previous encounters. Being very similar to the last encounter makes this encounter easier and the player should be able to find the key easily.
 
 ## 3. Spatiotemporal Design
  
