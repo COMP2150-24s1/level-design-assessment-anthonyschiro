@@ -1,25 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
-
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
+### Name: Anthony Schiro
+### Student number: 47300809
 
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+The player learns all the fundamental mechanics during the first four encounters of the game which then are used to a higher level of skill in sections 2 and 3. In section 1 these fundamental mechanics are introduced in a safe relatively safe environment where they can experiment with the mechanics and have to choose to fight enemies such as in encounter 3. By the end of section 1, they should have been forced to engage with all the mechanics of the game except for potentially checkpoints and health packages if they did not take damage or fall into acid. In section 2 and 3, the player is tested on these basic mechanics for example in the 2nd key room where they have to not hold down/need to hold down the jump button depending on the jump for smaller or bigger jumps. The spikes have been placed so that if this is not done correctly the player gets hit by the spikes.   
+![Acid key room](DocImages/AcidKeyRoom.jpg)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
