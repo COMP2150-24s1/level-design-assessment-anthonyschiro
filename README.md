@@ -24,6 +24,10 @@ This is the 3rd key room where players are encouraged to explore above them befo
 
 ## 2. Core Gameplay (~400 words)
 
+Legend - 
+
+![Legend](DocImages/Legend.png)
+
 ### 2.7. Passthrough Platforms
 ### 2.8. Spikes
 ### 2.2. Checkpoints
@@ -73,28 +77,8 @@ In the fourth encounter, the last 4 mechanics are introduced with health pickups
 ![Section3LevelMap](DocImages/Section3LevelMap.png)
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+Iterative design helped improve my level design as I often playtested the encounter I was working on and realised that something was too challenging or didn't work at all. I would then refine the level to where I was happy with the challenge level. For example in encounter 14, I wanted to have a big block with spikes on it which the player would have to jump from the moving platform, over the block and land back on the moving platform before jumping a different block with spikes to safety. This turned out to be able to be achieved with the physics of the game. So I reduced the size of the block to one tile and playtested again. However this still didn't achieve what I wanted it to as the difficulty of the jump was still too high, and I couldn't constistently get the jump without getting hit by spikes and falling into the acid. To fix this I moved all the spikes on the block inwards to reduce the collective hitbox of the spikes. After playtesting again, the jump could be achieved with much higher consistency such that I felt the likelyhood of someone one-shotting the jump to still be unlikely but not a huge roadblock in the players path. Using this process of playtesting and then improving the encounter lead to having a much higher level of encounters than if I had simply not tested the encounters and let me achieve a level of difficulty that I felt conformed to the assessmant specs.
 
-## Generative AI Use Acknowledgement
-
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
 
 
